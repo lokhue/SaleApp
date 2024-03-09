@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "name": "Iphone 15 pro max",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_7__1.webp"
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "name": "Iphone 8",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://shopdunk.com/images/thumbs/0008133_iphone-14-pro-max-512gb.png"
+  },
+  {
+    "id": 3,
+    "category_id": 1,
+    "name": "Iphone 7",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(5):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/9/638139585349327778_iphone-14pro-vang-6.jpg"
+  },
+  {
+    "id": 4,
+    "category_id": 1,
+    "name": "Iphone 11 pro max",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://techspace.vn/wp-content/uploads/2022/09/iphone_13__24cb13f3821540179fe4a1f9405c49f1_master-1.jpg"
+  },
+  {
+    "id": 5,
+    "category_id": 1,
+    "name": "Iphone 12 pro max",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://cdn.mediamart.vn/images/product/din-thoi-vivo-v2206---y22s-8128gb-xanh-vang_60ca6f0e.jpg"
+  },
+  {
+    "id": 6,
+    "category_id": 1,
+    "name": "Iphone 13 pro max",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://cdn.nguyenkimmall.com/images/detailed/895/10056368-dien-thoai-sam-sung-a05s-4gb-128gb-xanh-1.jpg"
+  },
+  {
+    "id": 7,
+    "category_id": 1,
+    "name": "Iphone 14 pro max",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_7__1.webp"
+  },
+  {
+    "id": 8,
+    "category_id": 2,
+    "name": "Laptop 1",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://media.wired.com/photos/64daad6b4a854832b16fd3bc/4:3/w_1787,h_1340,c_limit/How-to-Choose-a-Laptop-August-2023-Gear.jpg"
+  },
+  {
+    "id": 9,
+    "category_id": 2,
+    "name": "Laptop hp pavi",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://anphat.com.vn/media/product/44445_laptop_hp_240_g9_6l1x7pa_6.jpg"
+  },
+  {
+    "id": 10,
+    "category_id": 2,
+    "name": "Laptop MSI",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn//News/1499962//laptop-22-800x450-2.jpg"
+  },{
+    "id": 11,
+    "category_id": 3,
+    "name": "Tablet 1",
+    "description": "Đắt",
+    "price": 27000000,
+    "image": "https://p4-ofp.static.pub/fes/cms/2023/03/28/7dch8vg9lz0tzeg74u3x9paoln4o8z319478.png"
+  },{
+    "id": 12,
+    "category_id": 3,
+    "name": "Galaxy Tab 9",
+    "description": "Đắt",
+    "price": 30000000,
+    "image": "https://cdn.tgdd.vn//News/1420010//nen-mua-ipad-hay-may-tinh-bang-android-(1)-730x408.jpg"
+  }
+]
