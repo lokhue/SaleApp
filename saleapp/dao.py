@@ -19,7 +19,8 @@ def load_products(q=None, cate_id=None):
 def load_product_by_id(id):
     with open('datas/products.json', encoding='utf-8') as f:
         products = json.load(f)
-        print(products)
         for p in products:
             if p['id'] == id:
                 return p
+
+

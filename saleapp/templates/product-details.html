@@ -1,16 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-    <div class="container">
-        <div class="row">
-            <div class="col-m-5 col-12">
-                <img src="{{product.image}}"/>
-            </div>
-        </div>
+{% extends 'layouts/base.html' %}
+{% block title %}Chi tiết sản phẩm{% endblock %}
+
+{% block content %}
+<div class="row rounded">
+    <div class="col-md-5 col-12 rounded">
+        <img src="{{product.image}}" alt="hình ảnh {{product.name}}" class="img-fluid rounded-3"/>
     </div>
-</body>
-</html>
+    <div class="col-md-7 col-12">
+        <h3>{{product.name}}</h3>
+        <h4 class="text-danger text-bold col">{{product.price}} VNĐ</h4>
+    </div>
+</div>
+{% endblock %}
